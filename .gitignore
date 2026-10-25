@@ -1,0 +1,7 @@
+# Nunca subas inventarios reales, reportes ni credenciales
+hosts.txt
+*.csv
+*.pem
+*.key
+__pycache__/
+.DS_Store
