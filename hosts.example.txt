@@ -1,0 +1,7 @@
+# Un servidor por línea. Las líneas que empiezan con # se ignoran.
+# Formatos válidos:
+#   192.0.2.10
+#   ubuntu@192.0.2.11
+#   192.0.2.12:2222
+# Reemplaza esta línea por tus servidores:
+192.0.2.10
